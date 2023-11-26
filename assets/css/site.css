@@ -814,4 +814,9 @@ video {
     padding-top: 6rem;
     padding-bottom: 6rem;
   }
+
+  .lg\:text-xl {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+  }
 }
